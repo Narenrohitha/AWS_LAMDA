@@ -744,6 +744,7 @@ A production system that:
 [![GitHub](https://img.shields.io/badge/GitHub-Narenrohitha-181717?style=for-the-badge&logo=github)](https://github.com/Narenrohitha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naren--g-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/naren-g-7bb580229)
 [![Medium](https://img.shields.io/badge/Medium-@narengl2001-000000?style=for-the-badge&logo=medium)](https://medium.com/@narengl2001)
+[![YouTube](https://www.youtube.com/watch?v=slMSgmcaYDA&t=8s)
 [![Email](https://img.shields.io/badge/Email-narengl2001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narengl2001@gmail.com)
 
 </div>
